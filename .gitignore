@@ -51,3 +51,4 @@ gradlew.bat
 settings.gradle
 build.gradle
 gradle/wrapper/
+.idea/
